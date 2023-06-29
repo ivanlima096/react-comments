@@ -1,4 +1,4 @@
-# Cadastro de Livros - React
+# Seção de Comentários - React
 
 Aplicação do curso de React da escola OneBitCode para entender melhor uso de useState e useEffect
 
